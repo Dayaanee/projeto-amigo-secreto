@@ -1,0 +1,1 @@
+O projeto inclui um campo onde o usuário pode inserir nomes para realizar um sorteio de Amigo Secreto. Os nomes são adicionados a uma lista e ao clicar no botão "Sortear Amigo" um dos nomes inseridos será sorteado aleatoriamente.
